@@ -8,3 +8,4 @@ gcodexa https://gcodexa.com/ 200
 gcodexa-api https://api.gcodexa.com/ 200
 gcodexa-app https://app.gcodexa.com/ 200,302
 market https://market.gcodexa.com/api/v1/health/ready 200
+gcodexa-crm https://crm.gcodexa.com/api/health 200
